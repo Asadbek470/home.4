@@ -114,7 +114,7 @@ home ai
   <button><a href="https://asadbek470.github.io/my-brouser3/"> my-brouser3</a></button>
   <button><a href="https://asadbek470.github.io/About-Me1./">About-Me</a></button>
   <p>Thank you for visiting my web site!</p>
-  <p style="color: white;">password:0903</p>
+ 
 </body>
 </html>
 
