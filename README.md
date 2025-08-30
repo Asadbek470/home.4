@@ -106,6 +106,7 @@ home ai
     <li>Hacking2</li>
     <li>My brouser3</li>
     <li>About-Me</li>
+    <li>openxi.ru</li>
   </ol>
   <br>
   <button><a href="https://asadbek470.github.io/ChatXI.uz5/">OpenXi</a></button>
@@ -113,8 +114,8 @@ home ai
   <button><a href="https://asadbek470.github.io/Hacking2.3.5/">Hacking2</a></button>
   <button><a href="https://asadbek470.github.io/my-brouser3/"> my-brouser3</a></button>
   <button><a href="https://asadbek470.github.io/About-Me1./">About-Me</a></button>
+  <button><a href="http://abdumalikov.lunaweb.ru/">openxi.ru</a></button>
   <p>Thank you for visiting my web site!</p>
  
 </body>
 </html>
-
