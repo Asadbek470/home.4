@@ -102,19 +102,19 @@ home ai
   <p>My popular projects</p>
   <ol>
     <li>Game random</li>
-    <li>OpenXi</li>
+    <li>OpenXi.uz</li>
     <li>Hacking2</li>
     <li>My brouser3</li>
     <li>About-Me</li>
-    <li>openxi.ru</li>
+    <li>OpenXi.ru</li>
   </ol>
   <br>
-  <button><a href="https://asadbek470.github.io/ChatXI.uz5/">OpenXi</a></button>
+  <button><a href="https://asadbek470.github.io/ChatXI.uz5/">OpenXi.uz</a></button>
   <button><a href="https://asadbek470.github.io/random-game5.0/">random-game5</a></button>
   <button><a href="https://asadbek470.github.io/Hacking2.3.5/">Hacking2</a></button>
   <button><a href="https://asadbek470.github.io/my-brouser3/"> my-brouser3</a></button>
   <button><a href="https://asadbek470.github.io/About-Me1./">About-Me</a></button>
-  <button><a href="http://abdumalikov.lunaweb.ru/">openxi.ru</a></button>
+  <button><a href="https://asadbek470.github.io/OpenXI.ru/">OpenXi.ru</a></button>
   <p>Thank you for visiting my web site!</p>
  
 </body>
