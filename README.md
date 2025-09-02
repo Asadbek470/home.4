@@ -114,7 +114,7 @@ home ai
   <button><a href="https://asadbek470.github.io/Hacking2.3.5/">Hacking2</a></button>
   <button><a href="https://asadbek470.github.io/my-brouser3/"> my-brouser3</a></button>
   <button><a href="https://asadbek470.github.io/About-Me1./">About-Me</a></button>
-  <button><a href="https://asadbek470.github.io/OpenXI.ru/">OpenXi.ru</a></button>
+  <button><a href="https://asadbek470.github.io/OpenXI.ru2/">OpenXi.ru</a></button>
   <p>Thank you for visiting my web site!</p>
  
 </body>
